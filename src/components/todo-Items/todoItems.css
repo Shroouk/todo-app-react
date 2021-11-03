@@ -1,0 +1,30 @@
+
+  .todos li{
+    background: #423a6f;
+  }
+  .delete{
+    cursor: pointer;
+  }
+  .delete:hover{
+    color: #d7385e;
+  }
+  .filtered {
+    display:none !important;
+  }
+  .notaskstxt{
+      color: #fff;
+  }
+  .done{
+    text-decoration: line-through;
+  }
+  .taskname{
+    cursor: pointer;
+  }
+  .taskdays {
+    margin-left: auto;
+    margin-right: 30px;
+    border: 1px solid #03c4a1;
+    padding: 0px 10px;
+    border-radius: 15px;
+    color: #b3dbfa;
+}
